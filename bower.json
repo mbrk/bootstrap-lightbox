@@ -3,5 +3,5 @@
   "version": "0.7.1",
   "main": ["docs/assets/js/bootstrap-lightbox.min.js","docs/assets/css/bootstrap-lightbox.min.css"],
   "keywords": ["lightbox","bootstrap","plugin"],
-  "ignore" : ["js", "less", "docs/build", "docs/templates", "docs/index.html"]
+  "ignore" : []
 }
